@@ -6,6 +6,7 @@ Thank you for using MEDKS Library Management System!
 Default Admin User login info:
 
 username = testname1
+
 password = testpass1
 
 The other .txt files will automatically be created when you use the LMS software.
