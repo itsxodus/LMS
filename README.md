@@ -1,5 +1,5 @@
 # LMS
-Library Media System; University of New Haven - Fall 2020 - CSCI-1110-05
+Library Management System; University of New Haven - Fall 2020 - CSCI-1110-05
 
 Thank you for using MEDKS Library Management System!
 
